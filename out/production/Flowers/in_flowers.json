@@ -1,0 +1,16 @@
+{
+  "flowers": [
+    {
+      "name": "Rose",
+      "count": "10"
+    },
+    {
+      "name": "Lily",
+      "count": "1"
+    },
+    {
+      "name": "Sunflower",
+      "count": "3"
+    }
+  ]
+}

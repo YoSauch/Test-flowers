@@ -1,0 +1,14 @@
+<flowers>
+    <flower>
+        <name>Rose</name>
+        <count>5</count>
+    </flower>
+    <flower>
+        <name>Lily</name>
+        <count>1</count>
+    </flower>
+    <flower>
+        <name>Sunflower</name>
+        <count>3</count>
+    </flower>
+</flowers>

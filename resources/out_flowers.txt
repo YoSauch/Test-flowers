@@ -1,0 +1,2 @@
+Total cost: 560.0 
+List of flowers: [Rose, Rose, Rose, Rose, Rose, Sunflower, Sunflower, Sunflower, Sunflower, Sunflower, Sunflower, Sunflower, Sunflower, Sunflower, Sunflower, Chamomile]
